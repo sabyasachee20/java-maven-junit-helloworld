@@ -70,11 +70,10 @@
           <compilerArgs>
             <arg>-Xlint</arg>
           </compilerArgs>
-        </configuration>
-               <configuration>
-                <source>1.8</source>
+                  <source>1.8</source>
                 <target>1.8</target>
-</configuration>
+        </configuration>
+              
       </plugin>
 
       <plugin>
